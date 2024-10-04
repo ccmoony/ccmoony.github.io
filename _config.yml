@@ -1,4 +1,6 @@
 title: ccmoony's homepage
 description: ccmoony's personal blog
 google_analytics:
+github:
+  repository_url: https://github.com/ccmoony
 theme: jekyll-theme-cayman

@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I am an undergraduate from Shanghai Jiao Tong University, majoring in Artificial Intelligence. My research interests include, but are not limited to, Multi-modal learning and Self-Supervised learning.
+Hi there! I am an undergraduate from Shanghai Jiao Tong University, majoring in Artificial Intelligence. My research interests include, but are not limited to, Multi-modal learning.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025! 

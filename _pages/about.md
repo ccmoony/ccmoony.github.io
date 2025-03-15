@@ -33,7 +33,7 @@ Hong Li, Nanxi Li, **Yuanjie Chen**, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li
 [**[Project website]**](https://mvig-rhos.com/llm_inception)
 [**[Paper]**](https://arxiv.org/abs/2410.01417)
 
-In this paper, we first devise a standard association benchmark based on adjective and verb association semantic concepts. emantic concepts. Instead of costly data annotation and organization, we propose a convenient annotation-free reconstruction method transforming the general dataset for our association tasks. Furthermore, we comprehensively investigate the MLLMs's ability and potential for association ability.
+In this paper, we first devise a standard association benchmark based on adjective and verb association semantic concepts. Instead of costly data annotation and organization, we propose a convenient annotation-free reconstruction method transforming the general dataset for our association tasks. Furthermore, we comprehensively investigate the MLLMs's ability and potential for association ability.
 
 </div>
 </div>

@@ -19,10 +19,25 @@ redirect_from:
 Hi there! I am an undergraduate from Shanghai Jiao Tong University, majoring in Artificial Intelligence. My research interests include, but are not limited to, Multi-modal learning.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026! 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025! 
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/sdf_teaser_figure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models](https://arxiv.org/abs/2410.01417)
+
+Nanxi Li, Xiang Wang, **Yuanjie Chen**, Haode Zhang, Hong Li, Yong-Lu Li 
+
+[**[Project website]**](https://iclr.cc/virtual/2026/poster/10010991)
+[**[Paper]**](https://openreview.net/forum?id=Ax02eR2c3d)
+
+While Multimodal Large Language Models (MLLMs) excel at general understanding, they struggle with high-level physics reasoning, particularly regarding intuitive physics and continuum dynamics. To address this, we introduce two benchmark tasks: Next Frame Selection (NFS) and Temporal Coherence Verification (TCV). Experiments show that state-of-the-art models perform poorly on these tasks. We propose Scene Dynamic Field (SDF), a multi-task fine-tuning framework that integrates physics simulators. SDF significantly boosts performance—achieving major gains in fluid tasks—and demonstrates strong generalization to unseen domains.
+
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/llm_perception_teaser_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

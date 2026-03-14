@@ -27,7 +27,7 @@ Hi there! I am an undergraduate from Shanghai Jiao Tong University, majoring in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/sdf_teaser_figure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models](https://arxiv.org/abs/2410.01417)
+[Beyond Static Vision: Scene Dynamic Field Unlocks Intuitive Physics Understanding in Multi-modal Large Language Models](https://openreview.net/forum?id=Ax02eR2c3d)
 
 Nanxi Li, Xiang Wang, **Yuanjie Chen**, Haode Zhang, Hong Li, Yong-Lu Li 
 

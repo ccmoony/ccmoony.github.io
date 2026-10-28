@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I am an undergraduate from Shanghai Jiao Tong University, majoring in Artificial Intelligence. My research interests include, but are not limited to, Multi-modal learning.
+I am a first-year Master's student in Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Zhineng Chen](https://zhinchenfd.github.io/) in the [FVL Lab](https://fvl.fudan.edu.cn/). Previously, I received my bachelor's degree in Artificial Intelligence from Shanghai Jiao Tong University.
+
+My research focuses on video generation and world models, especially on building **physics-consistent and controllable generative worlds**.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026! 
@@ -53,16 +55,20 @@ In this paper, we first devise a standard association benchmark based on adjecti
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2026*, Outstanding Graduate of Shanghai Jiao Tong University
+- *2023, 2025*, SJTU Undergraduate Second-Class Excellence Scholarship (Top 10%)
+- *2022–2025*, Zhiyuan Honors Scholarship
 
 # 📖 Educations
-- *2022.09 - now*, Shanghai Jiao Tong University
+- *2026.9 - now*, Fudan University
+- *2022.09 - 2026.6*, Shanghai Jiao Tong University
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2026.3 - 2026.8*, Research Intern at [Kafang Tech](https://www.kafangtech.com/)
+- *2025.8 - 2026.3*, Algorithm Intern at [Xiaohongshu](https://www.xiaohongshu.com/protocols/about)
+- *2024.7 - 2024.9*, Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)

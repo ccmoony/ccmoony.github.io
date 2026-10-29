@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a first-year Master's student in Artificial Intelligence at [Fudan University](https://www.fudan.edu.cn/), under the supervision of [Prof. Zhineng Chen](https://zhinchenfd.github.io/) in the [FVL Lab](https://fvl.fudan.edu.cn/). Previously, I received my bachelor's degree in Artificial Intelligence from Shanghai Jiao Tong University.
+I am a first-year Master's student in Artificial Intelligence at Fudan University, under the supervision of Prof. Zhineng Chen in the FVL Lab. Previously, I received my bachelor's degree in Artificial Intelligence from Shanghai Jiao Tong University.
 
 My research focuses on video generation and world models, especially on building **physics-consistent and controllable generative worlds**.
 
